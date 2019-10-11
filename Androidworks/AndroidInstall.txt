@@ -1,0 +1,1 @@
+Install everything the 1R6u1 has then use the 1R7u1 to update the Android NDK to the lastest version.
