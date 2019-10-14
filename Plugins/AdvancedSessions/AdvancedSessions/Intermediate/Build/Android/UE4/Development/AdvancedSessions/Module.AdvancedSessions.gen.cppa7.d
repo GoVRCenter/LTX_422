@@ -1,12 +1,12 @@
-C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.cppa7.o: \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Intermediate/Build/Android/LazerTagX/Development/Engine/SharedPCH.Engine.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Definitions.AdvancedSessions.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedExternalUILibrary.gen.cpp \
+C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.cppa7.o: \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Intermediate/Build/Android/LazerTagX/Development/Engine/SharedPCH.Engine.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Definitions.AdvancedSessions.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedExternalUILibrary.gen.cpp \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public\UObject/GeneratedCppIncludes.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public\UObject/MetaData.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedExternalUILibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedExternalUILibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/PlayerState.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PlayerState.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\Interfaces/OnlineSessionInterface.h \
@@ -139,61 +139,61 @@ C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Inter
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Android/UE4/Inc/OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Android/UE4/Inc/OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\BlueprintDataDefinitions.generated.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedExternalUILibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsGameInstance.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedFriendsGameInstance.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsInterface.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsInterface.generated.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsGameInstance.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsInterface.gen.cpp \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsLibrary.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedFriendsLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedIdentityLibrary.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedIdentityLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedIdentityLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedSessions.init.gen.cpp \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedSessionsLibrary.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedSessionsLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedSessionsLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedVoiceLibrary.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedVoiceLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedVoiceLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.gen.cpp \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\CancelFindSessionsCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\CancelFindSessionsCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\CreateSessionCallbackProxyAdvanced.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\CreateSessionCallbackProxyAdvanced.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\EndSessionCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/EndSessionCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\EndSessionCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\FindFriendSessionCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindFriendSessionCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\FindSessionsCallbackProxyAdvanced.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindSessionsCallbackProxyAdvanced.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetFriendsCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetFriendsCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetFriendsCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetRecentPlayersCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetRecentPlayersCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetUserPrivilegeCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetUserPrivilegeCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\LoginUserCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/LoginUserCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\LoginUserCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\LogoutUserCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/LogoutUserCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\LogoutUserCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\SendFriendInviteCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\SendFriendInviteCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\UpdateSessionCallbackProxyAdvanced.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\UpdateSessionCallbackProxyAdvanced.generated.h
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\BlueprintDataDefinitions.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedExternalUILibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsGameInstance.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedFriendsGameInstance.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsInterface.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsInterface.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsGameInstance.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsInterface.gen.cpp \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedFriendsLibrary.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedFriendsLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedIdentityLibrary.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedIdentityLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedIdentityLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedSessions.init.gen.cpp \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedSessionsLibrary.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedSessionsLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedSessionsLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\AdvancedVoiceLibrary.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/AdvancedVoiceLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedVoiceLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.gen.cpp \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\CancelFindSessionsCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\CancelFindSessionsCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\CreateSessionCallbackProxyAdvanced.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\CreateSessionCallbackProxyAdvanced.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\EndSessionCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/EndSessionCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\EndSessionCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\FindFriendSessionCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindFriendSessionCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\FindSessionsCallbackProxyAdvanced.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindSessionsCallbackProxyAdvanced.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetFriendsCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetFriendsCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetFriendsCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetRecentPlayersCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetRecentPlayersCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\GetUserPrivilegeCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetUserPrivilegeCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\LoginUserCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/LoginUserCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\LoginUserCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\LogoutUserCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/LogoutUserCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\LogoutUserCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\SendFriendInviteCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\SendFriendInviteCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSessions\UpdateSessionCallbackProxyAdvanced.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source\AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\UpdateSessionCallbackProxyAdvanced.generated.h

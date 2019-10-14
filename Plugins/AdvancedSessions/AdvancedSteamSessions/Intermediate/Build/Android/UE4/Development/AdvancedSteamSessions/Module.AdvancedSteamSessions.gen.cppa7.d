@@ -1,12 +1,12 @@
-C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cppa7.o: \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Intermediate/Build/Android/LazerTagX/Development/Engine/SharedPCH.Engine.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Definitions.AdvancedSteamSessions.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp \
+C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cppa7.o: \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Intermediate/Build/Android/LazerTagX/Development/Engine/SharedPCH.Engine.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Development/AdvancedSteamSessions/Definitions.AdvancedSteamSessions.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.gen.cpp \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public\UObject/GeneratedCppIncludes.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/CoreUObject/Public\UObject/MetaData.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\BlueprintDataDefinitions.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\BlueprintDataDefinitions.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/PlayerState.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PlayerState.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\Interfaces/OnlineSessionInterface.h \
@@ -139,15 +139,15 @@ C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Android/UE4/Inc/OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Android/UE4/Inc/OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\BlueprintDataDefinitions.generated.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h \
-  C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h \
-  C:/LazerTagXtra_422/LazerTagXtra/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\BlueprintDataDefinitions.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Android\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Source\AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
