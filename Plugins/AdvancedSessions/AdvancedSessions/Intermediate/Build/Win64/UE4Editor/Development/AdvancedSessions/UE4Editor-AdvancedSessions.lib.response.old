@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-AdvancedSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\LazerTagXtra_422\LazerTagXtra\Intermediate\Build\Win64\LazerTagXEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
-"C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Default.rc2.res"
-/OUT:"C:\LazerTagXtra_422\LazerTagXtra\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
+"C:\Users\Justin\Documents\Unreal Projects\LTX_422\Intermediate\Build\Win64\LazerTagXEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
 /INCLUDE:IMPLEMENT_MODULE_AdvancedSessions
