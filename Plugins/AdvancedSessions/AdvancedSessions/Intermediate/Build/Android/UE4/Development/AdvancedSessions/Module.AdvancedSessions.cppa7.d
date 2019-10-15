@@ -2,16 +2,16 @@ C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/Adva
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Module.AdvancedSessions.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Intermediate/Build/Android/LazerTagX/Development/Engine/SharedPCH.Engine.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Development/AdvancedSessions/Definitions.AdvancedSessions.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedExternalUILibrary.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedExternalUILibrary.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/PlayerState.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PlayerState.generated.h \
+  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\CancelFindSessionsCallbackProxy.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\CancelFindSessionsCallbackProxy.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\Interfaces/OnlineSessionInterface.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\OnlineSubsystemTypes.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystemNames.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystemPackage.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\OnlineDelegateMacros.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
+  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/PlayerState.h \
+  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PlayerState.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\OnlineSessionSettings.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public/OnlineKeyValuePair.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystem/Source/Public\OnlineSubsystem.h \
@@ -138,45 +138,6 @@ C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/Adva
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h \
   C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Android/UE4/Inc/OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\BlueprintDataDefinitions.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedExternalUILibrary.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsGameInstance.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedFriendsGameInstance.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsInterface.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsInterface.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsGameInstance.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\Kismet/GameplayStatics.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\Kismet/KismetSystemLibrary.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\Engine/CollisionProfile.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\CollisionProfile.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\KismetSystemLibrary.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\Sound/DialogueTypes.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\DialogueTypes.generated.h \
-  C:/Program\ Files\Epic\ Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStaticsTypes.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\GameplayStaticsTypes.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\GameplayStatics.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsInterface.cpp \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsLibrary.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedFriendsLibrary.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedFriendsLibrary.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedIdentityLibrary.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedIdentityLibrary.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedIdentityLibrary.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessions.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedSessions.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessionsLibrary.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedSessionsLibrary.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedSessionsLibrary.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/GameStateBase.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\GameFramework/GameModeBase.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Source/Runtime/Engine/Classes\Engine/ServerStatReplicator.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\ServerStatReplicator.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\GameModeBase.generated.h \
-  C:/Program\ Files/Epic\ Games/UE_4.22/Engine/Intermediate/Build/Android/UE4/Inc/Engine\GameStateBase.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedVoiceLibrary.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\AdvancedVoiceLibrary.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\AdvancedVoiceLibrary.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\CancelFindSessionsCallbackProxy.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\CancelFindSessionsCallbackProxy.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\CancelFindSessionsCallbackProxy.generated.h \
   C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\CreateSessionCallbackProxyAdvanced.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\CreateSessionCallbackProxyAdvanced.h \
@@ -184,18 +145,6 @@ C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/Adva
   C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\EndSessionCallbackProxy.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\EndSessionCallbackProxy.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\EndSessionCallbackProxy.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\FindFriendSessionCallbackProxy.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\FindFriendSessionCallbackProxy.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindFriendSessionCallbackProxy.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\FindSessionsCallbackProxyAdvanced.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\FindSessionsCallbackProxyAdvanced.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\FindSessionsCallbackProxyAdvanced.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\GetFriendsCallbackProxy.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\GetFriendsCallbackProxy.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetFriendsCallbackProxy.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\GetRecentPlayersCallbackProxy.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\GetRecentPlayersCallbackProxy.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetRecentPlayersCallbackProxy.generated.h \
   C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\GetUserPrivilegeCallbackProxy.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\GetUserPrivilegeCallbackProxy.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\GetUserPrivilegeCallbackProxy.generated.h \
@@ -205,9 +154,6 @@ C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/Adva
   C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\LogoutUserCallbackProxy.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\LogoutUserCallbackProxy.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\LogoutUserCallbackProxy.generated.h \
-  C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\SendFriendInviteCallbackProxy.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\SendFriendInviteCallbackProxy.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\SendFriendInviteCallbackProxy.generated.h \
   C:\Users\Justin\Documents\Unreal\ Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private\UpdateSessionCallbackProxyAdvanced.cpp \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Classes\UpdateSessionCallbackProxyAdvanced.h \
   C:/Users/Justin/Documents/Unreal\ Projects/LTX_422/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Android/UE4/Inc/AdvancedSessions\UpdateSessionCallbackProxyAdvanced.generated.h

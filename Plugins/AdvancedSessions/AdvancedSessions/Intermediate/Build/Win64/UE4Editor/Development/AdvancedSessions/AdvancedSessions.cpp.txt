@@ -1,0 +1,2 @@
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessions.h

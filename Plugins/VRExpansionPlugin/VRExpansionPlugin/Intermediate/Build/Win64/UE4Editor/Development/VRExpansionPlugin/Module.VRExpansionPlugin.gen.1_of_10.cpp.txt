@@ -1,0 +1,51 @@
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\BucketUpdateSubsystem.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/BucketUpdateSubsystem.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\BucketUpdateSubsystem.generated.h
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GripMotionControllerComponent.gen.cpp
+C:\Users\Justin\Documents\Unreal Projects\LTX_422\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/GripMotionControllerComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBPDatatypes.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRBPDatatypes.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/VRGripScriptBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGripScriptBase.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGripInterface.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGlobalSettings.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_Default.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GS_Default.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GS_GunTools.generated.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGlobalSettings.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+c:\users\justin\documents\unreal projects\ltx_422\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GripMotionControllerComponent.generated.h

@@ -29,7 +29,7 @@
 		},
 		{
 			"Name": "AdvancedSteamSessions",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineSubsystemOculus",
