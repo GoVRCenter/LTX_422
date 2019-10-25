@@ -39,6 +39,10 @@
 			"Name": "SkookumScript",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38694f554c2c4b9f84c585256d509481"
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
 		}
 	]
 }
